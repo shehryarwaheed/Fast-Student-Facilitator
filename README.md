@@ -1,11 +1,16 @@
-*🎓 FAST Student Facilitator — Campus Services Platform
+# 🎓 FAST Student Facilitator — Campus Services Platform
+
 A full-stack campus services platform built with **React** on the frontend and **Spring Boot / Java** on the backend, powered by a **PostgreSQL** database. Designed to streamline everyday campus life for students through timetables, carpooling, lost & found, book exchange, and more.
 
-Developed by:
+**Developed by:**
 
-* L24-3023 Muhammad Shehryar Waheed
+* Muhammad Huzaifa
+* Muhammad Moazam Mehmood
+* Muhammad Anas
+* Muhammad Shehryar Waheed
+* Arkam Hafeez
 
-🎮 Features
+## 🎮 Features
 
 * 📝 Login & Google OAuth — Sign in to access personalized features
 * 🗓️ Timetable Manager — Upload, parse, and manage class timetables (Excel/CSV)
